@@ -1,0 +1,30 @@
+{
+    "name": "Mayank Rajput",
+    "logoType": {
+        "mobile": "MR",
+        "desktop": "Mayank Rajput"
+    },
+    "mainPicture": "/assets/closejpg.jpg",
+    "mainPictureJPG": "/assets/closejpg.jpg",
+    "pronunciation": "/ma-ya-ank/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "mr",
+    "email": "mayankrajputofficial@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mayankrajputofficial/",
+    "github": "https://github.com/mayankrajputofficial",
+    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/mayankrajputofficial/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/mayankrajputofficial"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:mayankrajputofficial@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "KIET Group of Institutions",
+            "degree": "Bachelor of Technology",
+            "duration": "Aug 2017 - Aug 2021",
+            "content": [
+                "CGPA: 7.0/10",
+                "Stream: Mechanical Engineering"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "KIET Group of Institutions",
+            "degree": "Bachelor of Technology",
+            "duration": "Aug 2017 - Aug 2021",
+            "content": [
+                "CGPA: 7.0/10",
+                "Stream: Mechanical Engineering"
+            ]
+        },
+        {
+            "id": "edu-3",
+            "school": "St. Francis Academy",
+            "degree": "Intermediate",
+            "duration": "Apr 2015 - Apr 2016",
+            "content": [
+                "Percentage: 73.2",
+                "Subjects: Physics, Chemistry, Mathematics, English, Computer Science"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "Sevenzon Technologies",
+            "position": "DevOps Engineer",
+            "duration": "Jan 2024 - Present",
+            "description": [
+                            "I help manage CI/CD pipelines, automate infrastructure (IaC), handle cloud services, monitor systems, manage containers, ensure security, and collaborate via Git. Daily tasks involve tools like Docker, Kubernetes, AWS, and scripting for deployment automation. Our focus on reliability, cost optimization, scaling, and access management ensures high availability. Teamwork and consistent effort are critical, as any failure impacts both the team and the company. Balanced project work with ongoing civil services preparation, strengthening analytical, problem-solving, and time-management skills. "
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "Tata Consultancy Services",
+            "position": "BPM Developer & Jr. DevOps Engineer",
+            "duration": "Dec 2021 - Sep 2023",
+            "description": [
+                             "As BPM Developer, I designed and developed business processes, built UIs using Coach Views, integrated systems via SOAP, automated workflows, and implemented business rules. As a Jr. DevOps Engineer, I learnt working on many tools and worked for the smooth functioning of CI/CD Pipelines."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "C & C++",
+                "Bash",
+                "Python",
+                "Javascript"
+            ]
+        },
+        {
+            "title": "OS & Tools",
+            "tools": ["Windows", "Linux", "Git", "Agile (Scrum)", "Jenkins", "Docker", "Kubernetes"]
+        },
+        {
+            "title": "UPSC Preparation",
+            "tools": [
+                "Knowledge of Various Fields",
+                "Systematic Working",
+                "Ethically Skilled",
+                "Consistent"
+            ]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "UPSC Preparation with Job(Upcoming)",
+            "link": ""
+        }
+    ]
+}

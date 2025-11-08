@@ -1,0 +1,24 @@
+[
+    {
+        "id": "featured-project-portfolio",
+        "location": "",
+        "title": "Deployed my Portfolio Website",
+        "year": "Oct 2025",
+        "tags": ["Bash", "Kubernetes", "Containerisation", "CI/CD", "Github", "Visual Studio Code"],
+        "description": "A project to demonstrate my knowledge about DevOps tools that I have gathered over the years and my ability to implement them.",
+        "readMore": "https://github.com/mayankrajputofficial/project-gowebapp",
+        "image": "/assets/featured-projects/portfolio_website_png.png",
+        "jpg": "/assets/featured-projects/portfolio_website_png.png"
+    },
+    {
+        "id": "featured-project-gowebapp",
+        "location": "",
+        "title": "Deployed a Go Web App",
+        "year": "Oct 2025",
+        "tags": ["Github Actions","Bash", "Kubernetes(MiniKube)", "Containerisation", "Argo CD", "Github", "Visual Studio Code"],
+        "description": "Another project to demontrate my knowledge of DevOps.",
+        "readMore": "https://github.com/mayankrajputofficial/project-gowebapp",
+        "image": "/assets/featured-projects/gowebapp.png",
+        "jpg": "/assets/featured-projects/gowebapp.png"
+    }
+]
